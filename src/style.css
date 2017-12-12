@@ -24,6 +24,7 @@ input {
 .delete-button {
     float: right;
     padding-left: 5px;
+    cursor: pointer;
 }
 
 .reminder-text {
